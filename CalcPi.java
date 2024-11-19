@@ -9,6 +9,6 @@ public class CalcPi {
 			sign *= -1;
 		}
 		System.out.println("pi according to Java: " + Math.PI);
-		System.out.println("pi, approximated:      " + (4 * qurterPi));		
+		System.out.println("pi, approximated:     " + (4 * qurterPi));
 	}
 }
